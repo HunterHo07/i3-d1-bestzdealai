@@ -1,20 +1,39 @@
 {
-  "name": "i3-d1-bestzdealai",
-  "version": "0.1.0",
+  "name": "bestzdealaai",
+  "version": "1.0.0",
+  "description": "BestzDealAi - AI-powered reverse marketplace where buyers post what they want, and sellers compete to offer the best deal.",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbopack",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "export": "next export"
   },
+  "keywords": [
+    "marketplace",
+    "ai",
+    "deals",
+    "reverse-auction",
+    "nextjs"
+  ],
+  "author": "BestzDealAi Team",
+  "license": "MIT",
   "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "next": "15.3.2"
+    "@react-three/drei": "^10.0.8",
+    "@react-three/fiber": "^9.1.2",
+    "clsx": "^2.1.1",
+    "gsap": "^3.13.0",
+    "lucide-react": "^0.511.0",
+    "next": "^15.3.2",
+    "phaser": "^3.90.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "three": "^0.176.0"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4"
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^3.4.17"
   }
 }
