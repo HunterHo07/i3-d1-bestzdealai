@@ -1,5 +1,7 @@
 # BestzDealAi - AI-Powered Reverse Marketplace
 
+Live Demo: https://i3-d1-bestzdealai.vercel.app
+
 ## 🚀 Startup Idea Overview
 
 **BestzDealAi** is an innovative AI-ready reverse marketplace where buyers post what they want, and local or online sellers compete to offer the best deal. One post — many offers.
